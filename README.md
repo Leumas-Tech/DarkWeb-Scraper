@@ -57,5 +57,27 @@ Rate Limiting: Implement rate limiting to prevent abuse of your scraping service
 - :question: [Need Help?](https://leumas.tech/contact)
 
 
+Please refer to the setup instructions to get started with this tool. Remember to use this scraper responsibly and ethically, focusing on areas that do not violate privacy or laws.
+
+## :warning: Legal Notice
+
+This tool is provided for educational purposes only. Any use of this tool for accessing or interacting with illegal content or for purposes that violate any local, state, national, or international law is strictly prohibited.
+
+## Sites to Test Scraping on
+- HD WIKI
+- TORCH
+- GRAMS
+- TORVPS
+- CHATTOR
+- ONIONDIR
+- TORLINKS
+- DEEPDOTWEB
+- UK PASSPORTS
+- USA CITIZENSHIP
+- APPLES 4 BITCOIN
+- DARKNET HACKING SERVICES
+
+
+
 If you encounter any issues or have questions about setting up or using the Darkweb Scraper, please don't hesitate to contact us. We're here to support you on your journey through the dark web safely.
 
